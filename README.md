@@ -13,9 +13,9 @@ This is a web app to predict the price of airline tickets.
 
 - Destination : This feature is a list that consist of 6 categories (`Cochin` , `Banglore` , `Delhi` , `New Delhi` , `Hyderabad` , `Kolkata`)
 
-- Duration : This feature is a list that consist of 7 categories (`Cafes` , `Delivery` , `Desserts` , `Dine-out` , `Drinks & nightlife`)
+- Duration : This feature should be a value that has a range between `0` and `10,000`
 
-- Total Stops : This feature is a list that consist of 30 categories (`Banashankari` , `Bannerghatta Road` , `Basavanagudi` , `Bellandur` , `Brigade Road`)
+- Total Stops : This feature should be a value that has a range between `0` and `4`
 
 - Route Status : This feature is a list that consist of 2 categories (`Direct` , `Indirect`)
 
