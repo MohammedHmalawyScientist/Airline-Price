@@ -19,7 +19,7 @@ This is a web app to predict the price of airline tickets.
 
 - Route Status : This feature is a list that consist of 2 categories (`Direct` , `Indirect`)
 
-- Additional Info : This feature is a list that consist of 10 categories (`Yes` , `No` , `Banashankari` , `Bannerghatta Road` , `Basavanagudi` , `Bellandur` , `Brigade Road` , `Cafes` , `Delivery` , `Desserts`)
+- Additional Info : This feature is a list that consist of 10 categories (`No info` , `In-flight meal not included` , `No check-in baggage included` , `1 Short layover` , `No Info` , `1 Long layover` , `Change airports` , `Business class` , `Red-eye flight` , `2 Long layover`)
 
 ### Get Dataset
 [Download](https://docs.google.com/spreadsheets/d/1Jgk1wDOjxKkiAEHxBWGk2lyx3LIpZ9gD/edit?usp=sharing&ouid=108222412027726456153&rtpof=true&sd=true) - Airline Price
