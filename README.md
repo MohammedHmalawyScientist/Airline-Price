@@ -25,7 +25,7 @@ This is a web app to predict the price of airline tickets.
 [Download](https://docs.google.com/spreadsheets/d/1Jgk1wDOjxKkiAEHxBWGk2lyx3LIpZ9gD/edit?usp=sharing&ouid=108222412027726456153&rtpof=true&sd=true) - Airline Price
 
 ### Watch Presentation
-[Explaining Video](https://youtu.be/Q3bu8-4Tl0k) - Airline Price
+[Explaining Video](https://youtu.be/7dxUQIo3PyU) - Airline Price
 
 ### Predict Now
 [Application](https://airline-price-vb7bmlq5ovf.streamlit.app/) - Airline Price
